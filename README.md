@@ -1,0 +1,2 @@
+# ams-git
+git training
